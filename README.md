@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [D2Admin](https://github.com/d2-projects/d2-admin) is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, javascript files loading of local first screen less than 60kb, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development.
 
 [中文](https://github.com/d2-projects/d2-admin-start-kit/blob/master/README.zh.md) | **English**
@@ -22,3 +23,6 @@ The following access addresses are built and deployed by the latest master branc
 | --- | --- |
 | gitee | [https://gitee.com/d2-projects/d2-admin](https://gitee.com/d2-projects/d2-admin) |
 | coding | [https://d2-projects.coding.net/p/d2-projects/d/d2-admin/git](https://d2-projects.coding.net/p/d2-projects/d/d2-admin/git) |
+=======
+# d2-admin-start-kit
+>>>>>>> d5a2bd627c02f3696b95a95a42072ddb726b66e8
