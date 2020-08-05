@@ -9,7 +9,7 @@ const _import = require('@/libs/util.import.' + process.env.NODE_ENV)
 const frameIn = [
   {
     path: '/',
-    redirect: { name: 'index' },
+    redirect: {name: 'index'},
     component: layoutHeaderAside,
     children: [
       // 首页
@@ -48,6 +48,16 @@ const frameIn = [
           auth: true
         },
         component: _import('demo/page3')
+      },
+      // 新建demo-page,billy zhang,20200805
+      {
+        path: 'page-demo',
+        name: 'page-demo',
+        meta: {
+          title: '新建示例',
+          auth: true
+        },
+        component: _import('demo/page-demo')
       },
       // 系统 前端日志
       {
